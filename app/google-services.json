@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "787727011409",
+    "firebase_url": "https://socialize-4c252.firebaseio.com",
+    "project_id": "socialize-4c252",
+    "storage_bucket": "socialize-4c252.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787727011409:android:f369b35041c53791ee7270",
+        "android_client_info": {
+          "package_name": "com.zababa.socialize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787727011409-5v00l3m8atei5qibtm4c019b2lc2mgjs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zababa.socialize",
+            "certificate_hash": "ed57cf6dd42642393b8b61ef0efea56d5b17b06a"
+          }
+        },
+        {
+          "client_id": "787727011409-u4i2vqjc2hel2o9sah8c1i4j546t75kl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjKCCKIkSzidPDNlUbHZ5VO3HX1GE_vwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787727011409-u4i2vqjc2hel2o9sah8c1i4j546t75kl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
